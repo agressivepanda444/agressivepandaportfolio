@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.916a176c.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.772a9110.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.772a9110.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.05992ece.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.05992ece.js.map",
-    "static/css/2.c4e73993.chunk.css": "/react-portfolio/static/css/2.c4e73993.chunk.css",
-    "static/js/2.c25ebade.chunk.js": "/react-portfolio/static/js/2.c25ebade.chunk.js",
-    "static/js/2.c25ebade.chunk.js.map": "/react-portfolio/static/js/2.c25ebade.chunk.js.map",
-    "static/js/3.45fba33a.chunk.js": "/react-portfolio/static/js/3.45fba33a.chunk.js",
-    "static/js/3.45fba33a.chunk.js.map": "/react-portfolio/static/js/3.45fba33a.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/css/2.c4e73993.chunk.css.map": "/react-portfolio/static/css/2.c4e73993.chunk.css.map",
-    "static/css/main.916a176c.chunk.css.map": "/react-portfolio/static/css/main.916a176c.chunk.css.map",
-    "static/js/2.c25ebade.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c25ebade.chunk.js.LICENSE.txt"
+    "main.css": "/agressivepandaportfolio/static/css/main.916a176c.chunk.css",
+    "main.js": "/agressivepandaportfolio/static/js/main.b74b4324.chunk.js",
+    "main.js.map": "/agressivepandaportfolio/static/js/main.b74b4324.chunk.js.map",
+    "runtime-main.js": "/agressivepandaportfolio/static/js/runtime-main.116725f5.js",
+    "runtime-main.js.map": "/agressivepandaportfolio/static/js/runtime-main.116725f5.js.map",
+    "static/css/2.c4e73993.chunk.css": "/agressivepandaportfolio/static/css/2.c4e73993.chunk.css",
+    "static/js/2.c25ebade.chunk.js": "/agressivepandaportfolio/static/js/2.c25ebade.chunk.js",
+    "static/js/2.c25ebade.chunk.js.map": "/agressivepandaportfolio/static/js/2.c25ebade.chunk.js.map",
+    "static/js/3.45fba33a.chunk.js": "/agressivepandaportfolio/static/js/3.45fba33a.chunk.js",
+    "static/js/3.45fba33a.chunk.js.map": "/agressivepandaportfolio/static/js/3.45fba33a.chunk.js.map",
+    "index.html": "/agressivepandaportfolio/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/agressivepandaportfolio/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.916a176c.chunk.css.map": "/agressivepandaportfolio/static/css/main.916a176c.chunk.css.map",
+    "static/js/2.c25ebade.chunk.js.LICENSE.txt": "/agressivepandaportfolio/static/js/2.c25ebade.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05992ece.js",
+    "static/js/runtime-main.116725f5.js",
     "static/css/2.c4e73993.chunk.css",
     "static/js/2.c25ebade.chunk.js",
     "static/css/main.916a176c.chunk.css",
-    "static/js/main.772a9110.chunk.js"
+    "static/js/main.b74b4324.chunk.js"
   ]
 }
